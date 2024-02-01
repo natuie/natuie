@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⏳ Pursue succinct and go with the flow!
+⏳ Pursue succinct and go with the flow!  
 😄 I'm from China and came to this world in 2007.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natuie&theme=vue" />
