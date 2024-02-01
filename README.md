@@ -17,4 +17,4 @@ I am Natuie from China.
 | --- | --- |
 | E-Mail | [nte@natuie.top](mailto:nte@natuie.top) |
 | Gitee | [gitee.com/natuie](https://gitee.com/natuie) |
-| Blog | [blog.moieo.top](https://blog.natuie.top) |
+| Blog | [blog.natuie.top](https://blog.natuie.top) |
