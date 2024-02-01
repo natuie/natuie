@@ -1,15 +1,20 @@
 ### Hi there 👋
 
-⏳ Starlight doesn't ask passers-by, years pay off!<br>
+⏳ Pursue succinct and go with the flow!
 😄 I'm from China and came to this world in 2007.
 
-## Naucye
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natuie&theme=vue" />
 
-![Stats](https://github-readme-stats.vercel.app/api?username=naucye&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff)
+<img src="https://github-readme-stats.vercel.app/api?username=natuie&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naucye&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natuie&layout=compact"/>
 
-- 🎈 Field of study: Android|C|C++|Node.js|Java|Javascript|TypeScript|Vue|SpringBoot
-- 🤝 How to reach me: Send E-Mail to  naucye@163.com OR naucye@naucy.top(unstable)
-- 🎃 Blog: http://blog.naucy.top
-- 🎉 Website: http://naucy.top
+### Hello 👋 
+I am Moieo from China.
+
+### Contact me
+| Website | URL |
+| --- | --- |
+| E-Mail | [nte@natuie.top](mailto:nte@natuie.top) |
+| Gitee | [gitee.com/natuie](https://gitee.com/natuie) |
+| Blog | [blog.moieo.top](https://blog.natuie.top) |
